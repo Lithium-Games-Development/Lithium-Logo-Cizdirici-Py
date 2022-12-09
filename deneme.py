@@ -10,5 +10,3 @@ a=int(input("karekök alınacak sayı giriniz:"))
 b=int(input("daire alanı alınacak yarıçap giriniz:"))
 print(karekok(a))
 print(dairealan(b))
-
-githubaselamasdasdasd
