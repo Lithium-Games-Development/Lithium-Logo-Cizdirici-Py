@@ -13,3 +13,10 @@ print(dairealan(b))
 selam
 asdasdasd
 asdasdasd
+
+
+
+
+
+
+asdasdasdasdasd
