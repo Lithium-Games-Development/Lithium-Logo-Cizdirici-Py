@@ -6,7 +6,7 @@ def karekok(x):
 def dairealan(yaricap):
     alan=math.pi*(yaricap**2)
     return alan
-
+asdasd
 
 print(karekok(25))
 print(dairealan(5))
