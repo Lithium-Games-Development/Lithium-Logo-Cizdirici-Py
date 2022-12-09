@@ -12,3 +12,4 @@ print(karekok(a))
 print(dairealan(b))
 selam
 asdasdasd
+asdasdasd
