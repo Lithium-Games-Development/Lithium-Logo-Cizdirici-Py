@@ -12,5 +12,5 @@ print(karekok(a))
 print(dairealan(b))
 
 
-
+asd
 asdasdasdasd
