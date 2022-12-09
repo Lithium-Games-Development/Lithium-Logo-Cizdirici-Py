@@ -2,7 +2,7 @@ import math
 def karekok(x):
     kok=math.sqrt(x)
     return kok
-asdasdasd
+asdasdasdasdasd
 def dairealan(yaricap):
     alan=math.pi*(yaricap**2)
     return alan
@@ -13,10 +13,3 @@ print(dairealan(b))
 selam
 asdasdasd
 asdasdasd
-
-
-
-
-
-
-asdasdasdasdasd
