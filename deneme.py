@@ -7,7 +7,7 @@ def dairealan(yaricap):
     alan=math.pi*(yaricap**2)
     return alan
 
-asd
+asdasdasdasd
 print(karekok(25))
 print(dairealan(5))
 
