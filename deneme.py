@@ -6,8 +6,8 @@ def karekok(x):
 def dairealan(yaricap):
     alan=math.pi*(yaricap**2)
     return alan
-
-asdselamasd
-print(karekok(25))
-print(dairealan(5))
+a=int(input("karekök alınacak sayı giriniz:"))
+b=int(input("daire alanı alınacak yarıçap giriniz:"))
+print(karekok(a))
+print(dairealan(b))
 
