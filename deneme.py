@@ -2,7 +2,7 @@ import math
 def karekok(x):
     kok=math.sqrt(x)
     return kok
-
+asdasdasd
 def dairealan(yaricap):
     alan=math.pi*(yaricap**2)
     return alan
