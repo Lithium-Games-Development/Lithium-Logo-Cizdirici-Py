@@ -1,5 +1,5 @@
 import turtle
-
+#lithium
 #LOGO
 #ÇİZİCİ
 lithiumarkaplan = turtle.Screen()
