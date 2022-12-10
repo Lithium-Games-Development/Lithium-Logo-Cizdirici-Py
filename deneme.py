@@ -17,3 +17,17 @@ print(karekok(a))
 print(dairealan(b))
 a
 awdawd print ıvır zıvır asdasd
+
+
+
+
+
+
+
+
+
+
+
+
+
+awdadadwawdawd
