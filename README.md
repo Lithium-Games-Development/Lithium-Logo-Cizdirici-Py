@@ -1,2 +1,3 @@
 # Lithiumproject_1
-Lithium
+Lithium logo çizdirici v1.0
+
