@@ -15,3 +15,4 @@ b=int(input("daire alanı alınacak yarıçap giriniz:"))
 print(karekok(a))
 print(dairealan(b))
 a
+awdawd print ıvır zıvır asdasd
