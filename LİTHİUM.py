@@ -1,5 +1,5 @@
 import turtle
-#LİTHİUM LOGO ÇİZDİRİCİ lithiumlogo
+#LİTHİUM LOGO ÇİZDİRİCİ
 lithiumarkaplan = turtle.Screen()
 lithiumcizici = turtle.Turtle()
 lithiumarkaplan.setup(width=1920,height=1080)
