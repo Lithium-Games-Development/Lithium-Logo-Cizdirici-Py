@@ -1,5 +1,5 @@
 import turtle
-asdasdasd
+#Lithium Logo Çizdirici by Eren
 lithiumarkaplan = turtle.Screen()
 lithiumcizici = turtle.Turtle()
 lithiumarkaplan.setup(width=1920,height=1080)
@@ -72,20 +72,3 @@ lithiumcizici.penup()
 
 lithiumcizici.goto(999,999)
 input()
-
-
-
-
-
-
-
-sdasd
-
-
-
-
-
-
-
-asdasdasd
-asdasdasd
