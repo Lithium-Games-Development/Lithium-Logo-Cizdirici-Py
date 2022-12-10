@@ -1,7 +1,9 @@
 import turtle
 asdasd
 asdasdasd
-asd
+asdasasdas
+da
+sd
 lithiumarkaplan = turtle.Screen()
 lithiumcizici = turtle.Turtle()
 lithiumarkaplan.setup(width=1920,height=1080)
