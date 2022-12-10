@@ -1,5 +1,5 @@
 import turtle
-
+asdasd
 
 lithiumarkaplan = turtle.Screen()
 lithiumcizici = turtle.Turtle()
