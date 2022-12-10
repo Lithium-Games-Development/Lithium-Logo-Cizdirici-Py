@@ -14,6 +14,7 @@ asdasdasd
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -31,3 +32,6 @@ asdasdasd
 
 
 asdasdasdasd
+=======
+asdasdasdasd
+>>>>>>> b06d075b5f0f3936268173e3839c2e5ebacecb53
