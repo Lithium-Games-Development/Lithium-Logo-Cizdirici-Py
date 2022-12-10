@@ -74,3 +74,4 @@ lithiumcizici.penup()
 
 lithiumcizici.goto(999,999)
 input()
+asdasdasdasd
