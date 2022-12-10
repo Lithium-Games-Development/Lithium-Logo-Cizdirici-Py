@@ -71,3 +71,4 @@ lithiumcizici.write("LİTHİUM", font=("Verdana", 72))
 lithiumcizici.penup()
 
 lithiumcizici.goto(999,999)
+input()
